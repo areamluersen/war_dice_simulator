@@ -16,7 +16,7 @@ It can also be used when we lost that dices.
 **ps. : You need to have a node installed and add yarn to it.** 
 
 ## Application view
-
+https://war-dice-simulator.vercel.app/
 <img src="./src/images/war_dice_simulator_app.png"/>
 
 ## Next steps
