@@ -1,4 +1,26 @@
-## Project To test web app with `Vite` + `ReactTS` + `Tailwind` for css 
+# Project to simulate dices for the game War
+## Problem to solve
+
+In some moments of the game, we have a huge amount of troops between attack and defense,
+when this occurs, players have to roll their dice multiple times until someone wins.
+Thinking about these cases, the simulator speeds up the game.
+It can also be used when we lost that dices.
+
+## How to start this project
+```
+1. fork
+2. Access project folder then run ->
+3. yarn install
+4. yarn dev
+```
+**ps. : You need to have a node installed and add yarn to it.** 
+
+## Application view
+
+<img src="./src/images/war_dice_simulator_app.png"/>
+
+<br />
+<hr />
 
 ### References:
 #### <img src="https://vitejs.dev/logo.svg" width="24"/> Vite: https://vitejs.dev/ 
