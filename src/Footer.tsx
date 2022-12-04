@@ -3,6 +3,15 @@ export const Footer = () => (
     <p>
       <a
         className="App-link"
+        href="https://areamluersen.vercel.app/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Aream Luersen
+      </a>
+      {' | '}
+      <a
+        className="App-link"
         href="https://reactjs.org"
         target="_blank"
         rel="noopener noreferrer"
@@ -27,6 +36,8 @@ export const Footer = () => (
       >
         Tailwind
       </a>
+
+
     </p>
   </footer>
 );

@@ -19,6 +19,10 @@ It can also be used when we lost that dices.
 
 <img src="./src/images/war_dice_simulator_app.png"/>
 
+## Next steps
+1. Add atack stop decision
+2. Add translations
+
 <br />
 <hr />
 
