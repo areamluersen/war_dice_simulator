@@ -36,6 +36,7 @@ export type TJogada = {
   tropasDefesaRestante: number
 }
 
+export type TVencedor = 'ataque' | 'defesa' | undefined
 export class WarDiceSimulator {
   private readonly jogadas: TJogada[] = []
   private vencedor: 'ataque' | 'defesa' | undefined
